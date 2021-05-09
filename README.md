@@ -10,7 +10,7 @@ Wsg 👋
 <p align="center">
 <a href="https://discord.com/users/744709662242504748">discord</a>
     ・
-    <a href="https://www.instagram.com/bluuwyd/">Twitter</a>
+    <a href="https://www.twitter.com/bluuwyd/">Twitter</a>
     ・
     <a href="https://www.youtube.com/channel/UCEy_B2lGn_h4ojRp2M92DDw">youtube</a>
     
